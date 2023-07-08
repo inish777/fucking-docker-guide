@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8696c1a899f92fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сеть.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Маунты.md",
+                "file": "Сеть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Маунты.md",
+                "file": "Сеть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Маунты.md"
+                "file": "Сеть.md"
               }
             }
           }
@@ -155,8 +167,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d93de09c17717222",
+  "active": "a8696c1a899f92fd",
   "lastOpenFiles": [
-    "Маунты.md"
+    "Маунты.md",
+    "Сеть.md"
   ]
 }
